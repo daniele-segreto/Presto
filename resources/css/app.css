@@ -1,0 +1,9 @@
+@import '/node_modules/bootstrap/dist/css/bootstrap.css';
+@import '/resources/css/style.css';
+@import '/node_modules/bootstrap-icons/font/bootstrap-icons.css';
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+@import '~dropzone/dist/basic';
+@import '~dropzone/dist/dropzone';
+
+@import '/node_modules/flag-icon-css/css/flag-icons';
